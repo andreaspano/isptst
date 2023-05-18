@@ -1,1 +1,1 @@
-RENV_PATHS_CELLAR=/home/andrea/pkg
+RENV_PATHS_CELLAR=./pkg
